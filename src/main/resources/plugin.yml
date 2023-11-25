@@ -1,0 +1,7 @@
+name: ReforgeLobbySystem
+version: 1.0
+main: net.reforge.ReforgeLobbySystem
+load: STARTUP
+commands:
+  maintenance:
+    description: '? ? ?'
